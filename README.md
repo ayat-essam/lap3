@@ -1,16 +1,17 @@
-# lap3
+# Flutter Login App
 
-A new Flutter project.
+A simple **Flutter Login Application** that demonstrates:
 
-## Getting Started
+* Form validation
+* Secure data storage using `
+* Show/Hide password feature
+* Clean UI using Flutter widgets
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](assets/images/scr.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
